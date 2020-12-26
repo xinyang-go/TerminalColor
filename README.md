@@ -19,6 +19,9 @@ std::cout << "Hello, World!"_c.back(ColorCode::yellow) << std::endl;
 #include "TerminalColor.hpp"
 using namespace tc;
 ```
+
+![example](example.png)
+
 ---
 
 具体支持的字符颜色和样式，详见头文件源码。
